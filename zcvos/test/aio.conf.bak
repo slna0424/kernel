@@ -1,0 +1,17 @@
+logfilename=test.out
+filesize=10
+filenum=10
+loglevel=15
+entity_name=uui1
+lo_path=/home/kevin/workspace/cbs/test
+db_r_conns=5
+db_r_ip=127.0.0.1
+db_r_port=3306
+db_r_usr=root
+db_r_pwd=62672000
+db_r_db=cbs
+db_r_charset=gbk
+db_fname=./cbs_gw.db
+timer_t1=180000
+timer_t2=5000
+timer_t3=5000
